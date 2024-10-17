@@ -1,3 +1,5 @@
+Jose Santiago Gonzalez Enriquez
+
 Ejercicio 1
 
 El ejercicio de prueba que se uso fue este (2 + 7i) + (3 - 4i)
